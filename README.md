@@ -2,7 +2,7 @@
 
 ## How to run:
 
-````
+```
 cd centick
 npm install
 npm run dev
@@ -10,8 +10,7 @@ npm run dev
 
 ## Required environment variables:
 
-````
-
+```
 #NEXT
 NEXT_PUBLIC_SERVER_URL=http://localhost:3000/
 
@@ -36,7 +35,4 @@ UPLOADTHING_APP_ID=
 STRIPE_SECRET_KEY=
 STRIPE_WEBHOOK_SECRET=
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
-
-```
-
 ```
